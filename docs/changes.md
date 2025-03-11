@@ -1,3 +1,4 @@
+![1000378492](https://github.com/user-attachments/assets/bc911628-4ee3-4bb5-b16f-3ece2a7fca92)
 # Magisk Changelog
 
 ### v28.1
